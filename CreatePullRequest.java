@@ -1,0 +1,7 @@
+/**
+ * CreatePullRequest
+ */
+public class CreatePullRequest {
+
+    
+}
